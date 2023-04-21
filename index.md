@@ -1,3 +1,8 @@
+
+---
+title-heading: false
+---
+
 ## St. Louis Vacant Buildings
 
 
